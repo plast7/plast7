@@ -6,4 +6,4 @@ Gangwon Science High School
 
 [Problem Solving Blog](https://plast.tistory.com)
 
-[Works & Achievements](https://plast.tistory.com)
+Codeforces Master(max rating 2300)

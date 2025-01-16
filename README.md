@@ -2,10 +2,8 @@
 
 Yonsei University of Computer Science & Engineering
 
-Gangwon Science High School
+### Carrer
 
-[Problem Solving Blog](https://plast.tistory.com)
+- Branch and Bound Contents Researcher (2022.3.1~)
 
-Codeforces Grandmaster(max rating 2400)
-
-[![](https://banner.codetree.ai/v1/banner/plast2)](https://www.codetree.ai/profiles/plast2)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=plast)
